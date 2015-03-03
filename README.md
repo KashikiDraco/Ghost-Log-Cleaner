@@ -1,5 +1,5 @@
 # Ghost-Log-Cleaner
-Ghost Log Cleaner is simple but usefull log cleaner in Linux. Why ? Check in Readme.md
+Ghost Log Cleaner is simple but usefull log cleaner in Linux. Why ? Just read it
 
 # License
 
