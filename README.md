@@ -1,5 +1,8 @@
 # Ghost-Log-Cleaner
-Ghost Log Cleaner is simple but usefull log cleaner in Linux. Why ? Just read it
+
+usage : python Ghost-Log-Cleaner.py
+Before use it change your fucking access to ROOT to make it perfect during use this tool 
+Ghost Log Cleaner is simple but usefull log cleaner in Linux. Before it this tool is not fucking awesome because it's can't delete a Terminal history. To check it. change your authority level to ROOT and then use this tool after that open your terminal and type : history . and see it this tool can't delete the history. to make it perfect or you know to make it perfect let's develop it together :) .
 
 # License
 
